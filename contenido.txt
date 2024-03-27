@@ -2,6 +2,12 @@ datos repositorio principal
 
 dtos del feature/modelocrud
 
+
+segundo cambio de feature-modelocrud
+
 segundo cambio de feature-modelocrud
 
 mas cambios de repositorio principal
+=========
+segundo cambio de feature-modelocrud
+>>>>>>>>> Temporary merge branch 2
